@@ -7,6 +7,8 @@ public class HelloGit {
 		System.out.println("Get from remote dev branch");
 		System.out.println("Hello Git, 2014-01-02");
 		System.out.println("Hello Git, 2014-01-03");
+		System.out.println("Hello Git, 2014-01-04");
+		System.out.println("Hello Git, test code reivew 2014-01-05");
 	}
 
 }
