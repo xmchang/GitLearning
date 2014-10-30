@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("Hello Git, 2014-01-01");
 		System.out.println("Get from remote dev branch");
 		System.out.println("Hello Git, 2014-01-02");
+		System.out.println("Hello Git, 2014-01-03");
 	}
 
 }
