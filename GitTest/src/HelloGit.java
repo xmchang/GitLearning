@@ -2,7 +2,7 @@
 public class HelloGit {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Git!");
+		System.out.println("Test Gerrit Code Review");
 		System.out.println("Hello Git, 2014-01-01");
 		System.out.println("Get from remote dev branch");
 		System.out.println("Hello Git, 2014-01-02");
@@ -10,6 +10,7 @@ public class HelloGit {
 		System.out.println("Hello Git, 2014-01-04");
 		//System.out.println("Hello Git, test code reivew 2014-01-05");
 		System.out.println("Hello Git, test code reivew new 2014-01-05");
+		System.out.println("Test Gerrit Code Review");
 	}
 
 }
